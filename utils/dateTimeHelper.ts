@@ -1,0 +1,12 @@
+export function getFormattedSystemTime(): string {
+    const now = new Date();
+
+    return now.toLocaleString('en-US', {
+        month: 'short',
+        day: 'numeric',
+        year: 'numeric',
+        hour: 'numeric',
+        minute: '2-digit',
+        hour12: true
+    });
+}

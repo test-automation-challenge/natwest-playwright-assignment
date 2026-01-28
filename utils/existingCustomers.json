@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Hermoine Granger",
+    "firstName": "Hermoine",
+    "lastName": "Granger",
+    "accountNumber": "1001",
+    "postCode": "E859AB"
+  },
+  {
+    "name": "Harry Potter",
+    "firstName": "Harry",
+    "lastName": "Potter",
+    "accountNumber": "1004",
+    "postCode": "E725JB"
+  },
+  {
+    "name": "Ron Weasly",
+    "firstName": "Ron",
+    "lastName": "Weasly",
+    "accountNumber": "1007",
+    "postCode": "E55555"
+  }
+]
